@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakila Ravimal
 - 👀 I’m interested in artificial intelligence(deep learning and machine learning), desktop, web and android applications development.
-- 🌱 I’m currently following a Computer Science degree(2nd year student).
+- 🌱 I’m currently following a Computer Science degree.
 - 📫 My Email address: shakilaravimal@gmail.com
 
 <!---
